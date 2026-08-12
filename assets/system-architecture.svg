@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250">
+<rect width="1200" height="250" rx="22" fill="#0D1117"/>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#35D0FF"/></marker></defs>
+<style>.b{fill:#111A22;stroke:#35D0FF;stroke-width:2}.t{fill:#fff;font:700 22px monospace;text-anchor:middle}.s{fill:#A8B5C1;font:16px monospace;text-anchor:middle}.l{stroke:#35D0FF;stroke-width:4;fill:none;marker-end:url(#a)}</style>
+<rect class="b" x="45" y="60" width="230" height="130" rx="16"/><text class="t" x="160" y="112">MPU6050</text><text class="s" x="160" y="148">Accel • Gyro • Temp</text>
+<path class="l" d="M275 125H410"/><text class="s" x="343" y="105">I²C</text>
+<rect class="b" x="410" y="60" width="260" height="130" rx="16"/><text class="t" x="540" y="112">STM32F3</text><text class="s" x="540" y="148">Read • Convert • Format</text>
+<path class="l" d="M670 125H805"/><text class="s" x="738" y="105">USB CDC</text>
+<rect class="b" x="805" y="60" width="350" height="130" rx="16"/><text class="t" x="980" y="112">PC MONITOR</text><text class="s" x="980" y="148">Virtual COM • Terminal</text>
+</svg>
