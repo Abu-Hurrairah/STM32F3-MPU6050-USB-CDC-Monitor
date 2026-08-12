@@ -141,7 +141,3 @@ This project demonstrates embedded C, STM32 HAL, I²C register communication, si
 ## Scope
 
 The screenshots show that USB Virtual COM communication and MPU6050 accelerometer debugging were performed. The exact original `.ioc`, pins, and source files were not available, so this package provides a clean, reproducible implementation of that combined workflow rather than claiming to be the exact original project.
-
-## License
-
-No licence is included by default.
